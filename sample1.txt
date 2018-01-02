@@ -2,3 +2,4 @@ Sample file for testing git features on github
 
 Test git features
 changes on different server
+another change for testing merge tool
